@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piotr776
 - 👀 I’m interested in web & game dev
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in interesting project
 - 📫 How to reach me ? Write msg on my e-mail
 
 <!---
