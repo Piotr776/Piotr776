@@ -2,6 +2,7 @@
 - 👀 I’m interested in web & game dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in interesting project
+- 🎓 Education: IT Technician 💻
 - 📫 How to reach me ? Write msg on my e-mail
 
 <!---
